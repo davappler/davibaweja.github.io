@@ -1,0 +1,90 @@
+#head{
+   background: linear-gradient( #5E5C5C,#9DC5C3, #D7E1EC,#FFFFFF);
+}
+
+#title
+{
+  font-size:50px;
+  color:rgb(68,62,62);
+  font-family: Helvetica, serif;
+  font-weight:bold;
+  font-style:oblique;
+  text-align:center;
+  padding:2%;
+
+
+}
+
+#tagline
+{
+  font-size:40px;
+  color:rgb(68,62,90); 
+
+  font-family: Helvetica, serif;
+  font-weight:bold;
+  font-style:oblique;
+  margin:auto;
+  display:table ;
+  font-size:200%;
+}
+
+#image
+{
+  padding:10px;
+  width:80%;
+  height:auto;
+  display:table;
+  margin:auto;
+  max-width:90%;
+  display:block;
+ 
+}
+
+#img-caption
+{
+  font-size:20px;
+  color:black; 
+  background-color:rgb(201,175,180);
+  font-family: Helvetica, serif;
+  font-weight:bold;
+  font-style:oblique;
+
+  display:table;
+  margin:auto;
+
+}
+
+#info{
+  font-family: starline,bazooka,sans-serif;
+    font-size: 20px;
+}
+#achiev
+{
+  font-size:500%;
+  font-style: italic;
+  color:rgb(124,75,75);
+  
+}
+
+#list{
+  font-size:180%;
+    color:rgb(90,100,70);
+  font-style:italic;
+  
+  background:linear-gradient(
+      35deg,
+      #ccffff,
+      #ffcccc
+    );
+  
+}
+#tribute-link:hover
+{ 
+  color:red;
+  
+}
+
+#footer{
+  font-style:bold;
+  font-size: 25px;
+}
